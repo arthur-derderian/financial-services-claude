@@ -229,6 +229,7 @@ These are reference templates — they get better when you tune them to how your
 | portfolio-monitoring | `/portfolio` | Track portfolio company KPIs and variances |
 | value-creation-plan | `/value-creation` | Post-close 100-day plans and EBITDA bridges |
 | ai-readiness | `/ai-readiness` | Assess a portfolio company's AI readiness |
+| lpa-ddq | `/lpa-ddq` | LPA entrant - DDQ complet, extraction verbatim 82 sous-clauses, double format RCCI/partenaire, flags DEAL-BREAKER / MATERIEL / MINEUR |
 
 </details>
 
